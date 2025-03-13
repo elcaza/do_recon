@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=200px src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/images/do_recon/do_recon.jpeg">
+  <img width=500px src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/images/do_recon/do_recon.jpeg">
   <br>
   <h1>Do Recon</h1>
   <br>
