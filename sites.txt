@@ -1,2 +1,0 @@
-1.scanme.nmap.org
-2.scanme.nmap.org

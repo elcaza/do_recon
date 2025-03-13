@@ -112,10 +112,28 @@ log_time_out () {
 # Starting program
 
 if [ $# -ne 1 ]
-  then
+then
 	echo "Use: $0 input_file"
 	echo -e "\nInput file example: Read the README.md file"
 	exit
+else
+	if [ "$1" == "stop" ]; then
+		echo "Stopping"
+		ps -ef | grep 'do_recon'
+		ps -ef | grep 'do_recon' | grep -v grep | awk '{print $2}' | xargs -r kill -9
+		exit
+	fi
+
+	if [ "$1" == "reset" ]; then
+		echo "Deleting all folders and log files..."
+		rm -R */ *.log
+		exit
+	fi 
+
+	if [ ! -f "$1" ]; then
+		echo "File does not exist"
+		exit
+	fi 
 fi
 
 log_start_options
