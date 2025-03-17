@@ -1,13 +1,15 @@
 <div align="center">
   <img width=500px src="https://raw.githubusercontent.com/elcaza/misc/refs/heads/main/images/do_recon/do_recon.jpeg">
   <br>
-  <h1>Do Recon</h1>
+  <h1>Do Recon Raccoon Tool</h1>
   <br>
 </div>
 
 A tool to help you in scans of infrastructure. It scans a bundle of sites and puts the results in a directory for each site analyzed.
 
 Let us do the important but tedious job of mapping the network and doing the reconnaissance. After that, just read the outputs and try to hack them!
+
+**Post en Medium (Español):** <a href="https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84" target="_blank">Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración</a>
 
 ## What does this do?
 By order:
