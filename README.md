@@ -11,6 +11,10 @@ Let us do the important but tedious job of mapping the network and doing the rec
 
 **Post en Medium (Español):** <a href="https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84" target="_blank">Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración</a>
 
+
+[Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración](https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84){:target="_blank"}
+
+
 ## What does this do?
 By order:
 1. Create a log file for all the assets 
