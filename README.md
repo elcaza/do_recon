@@ -9,10 +9,7 @@ A tool to help you in scans of infrastructure. It scans a bundle of sites and pu
 
 Let us do the important but tedious job of mapping the network and doing the reconnaissance. After that, just read the outputs and try to hack them!
 
-**Post en Medium (Español):** <a href="https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84" target="_blank">Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración</a>
-
-
-[Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración](https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84){:target="_blank"}
+**Post en Medium (Español):** [Do Recon Raccoon Tool - Una herramienta para realizar el reconocimiento automatizado en pruebas de penetración](https://elcaza.medium.com/do-recon-raccoon-tool-una-herramienta-para-realizar-el-reconocimiento-automatizado-en-pruebas-de-8738d9998b84)
 
 
 ## What does this do?
